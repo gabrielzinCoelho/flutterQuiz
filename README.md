@@ -13,12 +13,10 @@ Quaisquer sugestões de possíveis melhorias sempre são bem-vindas.
     src="./assets/readmeImages/homePage.png" 
     style="width: 320px; height: 640px;" 
 />
-
 <img 
     src="./assets/readmeImages/quizPage.png" 
     style=" width: 320px; height: 640px;" 
 />
-
 <img 
     src="./assets/readmeImages/resultPage.png" 
     style=" width: 320px; height: 640px;" 
