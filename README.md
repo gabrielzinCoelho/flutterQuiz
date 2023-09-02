@@ -28,6 +28,8 @@ Quaisquer sugestões de possíveis melhorias sempre são bem-vindas.
 
 &nbsp;
 
+### Breve descrição 
+
 O projeto se trata de um aplicativo em que o usuário é desafiado a testar suas habilidades em **Flutter**, respondendo a um quiz.
 
 Ao iniciar o questionaŕio, são exibidas uma série de perguntas, sendo que há apenas uma alternativa correta associada a cada, e a mesma se encontra embaralhada aleatoriamente junto as demais opções de escolha disponíveis.
