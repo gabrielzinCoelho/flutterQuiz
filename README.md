@@ -11,15 +11,15 @@ Quaisquer sugestões de possíveis melhorias sempre são bem-vindas.
 <div style="display: flex; flex-direction: row;">
 <img 
     src="./assets/readmeImages/homePage.png" 
-    style="width: 300px; height: 600px;" 
+    style="width: 300px; height: 600px; margin: 0;" 
 />
 <img 
     src="./assets/readmeImages/quizPage.png" 
-    style=" width: 300px; height: 600px;" 
+    style=" width: 300px; height: 600px; margin: 0;" 
 />
 <img 
     src="./assets/readmeImages/resultPage.png" 
-    style=" width: 300px; height: 600px;" 
+    style=" width: 300px; height: 600px; margin: 0;" 
 />
 
 </div>
