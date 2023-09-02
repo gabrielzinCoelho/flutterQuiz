@@ -8,7 +8,7 @@ Quaisquer sugestões de possíveis melhorias sempre são bem-vindas.
 
 ## Sobre o projeto
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
 <img 
     src="./assets/readmeImages/homePage.png" 
     style="width: 250px; height: 500px; margin: 0;" 
