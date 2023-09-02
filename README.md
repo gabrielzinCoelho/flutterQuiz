@@ -8,7 +8,7 @@ Quaisquer sugestões de possíveis melhorias sempre são bem-vindas.
 
 ## Sobre o projeto
 
-<div style="display: flex; flex-direction: row;>
+<div style="display: flex; flex-direction: row;">
 <img 
     src="./assets/readmeImages/homePage.png" 
     style="width: 320px; height: 640px;" 
